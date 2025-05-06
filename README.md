@@ -25,9 +25,9 @@ ngrok http 8501
 
 **Get the ngrok temporary public URL**  
 ```bash
+# the URL listed after Forwarding (e.g., http://abcd1234.ngrok.io) is the public link that you can now share with others
 Forwarding                    http://abcd1234.ngrok.io -> http://localhost:8501
 ```
-The URL http://abcd1234.ngrok.io is the public link that you can now share with others.
 
 
 
