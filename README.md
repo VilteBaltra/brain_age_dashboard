@@ -19,6 +19,7 @@ streamlit run build_dashboard_brain_age.py
 
 **Run ngrok to expose the Streamlit app**  
 ```bash
+# to install ngrok follow steps detailed here https://dashboard.ngrok.com/get-started/setup/
 ngrok http 8501
 ```
 
